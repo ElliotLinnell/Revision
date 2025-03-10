@@ -1,0 +1,10 @@
+1. What is a firewall used for in cybersecurity?
+2. Define the term "phishing" in the context of cyber threats.
+3. What is two-factor authentication (2FA)?
+4. What is malware and what are its common types?
+5. How does encryption help in securing data?
+6. What is the purpose of an intrusion detection system (IDS)?
+7. Explain the difference between a virus and a worm in cybersecurity.
+8. What is the significance of regular software updates in cybersecurity?
+9. What is social engineering in the context of cybersecurity?
+10. Describe the principle of least privilege.

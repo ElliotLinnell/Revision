@@ -1,0 +1,10 @@
+A firewall is used to monitor and control incoming and outgoing network traffic based on predetermined security rules.
+Phishing is a type of cyber attack where attackers impersonate legitimate organizations to trick individuals into revealing sensitive information, such as passwords or credit card numbers.
+Two-factor authentication (2FA) is a security process that requires users to provide two forms of verification before accessing an account, typically a password and a code sent to a mobile device.
+Malware refers to malicious software designed to harm or exploit any device or network. Common types include viruses, worms, Trojans, ransomware, and spyware.
+Encryption transforms data into an unreadable format using a cipher, so even if intercepted, it cannot be understood without the decryption key.
+An intrusion detection system (IDS) monitors network traffic for signs of malicious activity or policy violations and alerts administrators of potential security breaches.
+A virus attaches itself to a legitimate program and spreads when the program is executed. A worm is a self-replicating program that spreads independently over a network.
+Regular software updates are crucial for fixing security vulnerabilities, patching software flaws, and ensuring that the system is protected from the latest threats.
+Social engineering involves manipulating people into revealing confidential information by exploiting trust, emotions, or weaknesses in human behavior.
+The principle of least privilege ensures that users and systems are granted only the minimum level of access necessary to perform their tasks, reducing the potential damage from a breach.
